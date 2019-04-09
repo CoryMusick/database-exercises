@@ -1,6 +1,6 @@
 USE codeup_test_db;
 
-INSERT INTO albums (artist, name, release_date, sales, genre)
+INSERT INTO albums (artist, name, release_date, genre, sales)
 VALUES ('Grease', 'Grease Soundtrack', 1978, 'Rock & Roll', 14.4),
        ('Led Zeppelin', 'Led Zeppelin IV', 1971, 'Hard Rock', 29.0),
        ('Michael Jackson', 'Bad', 1987, 'Pop', 19.3),
